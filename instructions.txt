@@ -1,0 +1,8 @@
+npm run build
+firebase login
+firebase emulators:start
+
+if (Running this at school)
+{
+     C:\Users\334486909\AppData\Roaming\npm\firebase 
+}
